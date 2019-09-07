@@ -75,6 +75,8 @@ def main():
               print ("#                                                         #")
               print ("# Mr.4R13F                                    DevlinCyber #")
               print ("###########################################################")
+              Print ('\033[1;31mbuka dengan nama target/script')
+              Print ('\033[1;32mMisal http://uzingela.co.za/script.html
 
          else:
               print ('\033[1;37mMakasih Bro telah gunain tools ini')
